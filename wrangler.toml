@@ -1,0 +1,11 @@
+name = "playjonny-app-com-es"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=playjonny-app.com.es"
+HMAC_KEY = "0fe573f8361546333896a2f2116d90d70f58d1b9ca5fc76e4073b254c29c7884"
+COOKIE_NAME = "x7f"
+PLAY_PATH = "start"
+BUTTON_ID = "pff91c10c6f6e791087e7eeb74567a99f"
+GATE_SALT = "3b0bd46807b00073"
